@@ -4,7 +4,7 @@ Ce projet utilise des données recueillies à partir de la base de données des 
 
 ![Blood!](https://csrbox.org/company/proj_img/1570703417blood%20donation.jpg)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmineSayahh/Projet-DataCamp/main)
+* Lien MyBinder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmineSayahh/Projet-DataCamp/main)
 
 # Project rundown 
 <ol>
@@ -21,4 +21,3 @@ Ce projet utilise des données recueillies à partir de la base de données des 
 </ol>
  
  * BYE Mohamed Amine Sayah
- ![Amine!](https://scontent.ftun14-1.fna.fbcdn.net/v/t39.30808-6/278902335_8015676855170609_2891218419049908224_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mGZITKAzGScAX_2YaRz&tn=-HHfIPVVOcUcwt3K&_nc_ht=scontent.ftun14-1.fna&oh=00_AfDH4-0ON3glisEQDmPVwcuxnaWWBBtyX5PjLylq1UhBhQ&oe=6368E002)
