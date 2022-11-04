@@ -20,4 +20,4 @@ Ce projet utilise des données recueillies à partir de la base de données des 
  <li> Entraînement du modèle de régression linéaire </li>
 </ol>
  
- * BYE Mohamed Amine Sayah
+ * BY Mohamed Amine Sayah
