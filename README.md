@@ -4,7 +4,7 @@ Ce projet utilise des données recueillies à partir de la base de données des 
 
 ![Blood!](https://csrbox.org/company/proj_img/1570703417blood%20donation.jpg)
 
- * Lien MyBinder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmineSayahh/Projet-DataCamp/main)
+ * Lien MyBinder :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmineSayahh/Projet-DataCamp/main)
 # Project rundown 
 <ol>
  <li> Inspection du fichier transfusion.data </li>
