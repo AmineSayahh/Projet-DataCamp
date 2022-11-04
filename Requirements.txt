@@ -5,3 +5,4 @@ linear_model
 operator 
 itemgetter
 TPOT
+TPOTClassifier
