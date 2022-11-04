@@ -6,3 +6,5 @@ operator
 itemgetter
 TPOT
 TPOTClassifier
+roc_auc_score
+sklearn.metrics
