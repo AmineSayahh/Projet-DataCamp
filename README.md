@@ -19,5 +19,3 @@ Ce projet utilise des données recueillies à partir de la base de données des 
  <li> Normalisation des journaux </li>
  <li> Entraînement du modèle de régression linéaire </li>
 </ol>
- 
- * BY Mohamed Amine Sayah
